@@ -5,8 +5,8 @@ macosx-ux
 Exporting share as MacOS network volume on MS Windows ( [link](http://en.wikipedia.org/wiki/ExtremeZ-IP) )
 
 #### Software sources
-+ kickass
-+ brokenstones
++ kickass + brokenstones
++ http://brew.sh - package manager
 
 #### Appreciated software list
 + 1password - password manager
@@ -15,7 +15,18 @@ Exporting share as MacOS network volume on MS Windows ( [link](http://en.wikiped
 + dash - 150+ API docs/snippets
 + sublime text 3 - code editor
 + istatpro - dock sysmon app
-tunnelblick - openvpn client
++ tunnelblick - openvpn client
++ keka - archiver
++ caffeine - prevents sleep mode
++ menu meters - taskbar sysmon app
++ colorsnapper - color picker (eyedrop)
++ ghostlab - multibrowser testing
++ 
++ osxfuse
++ vlc
++ chrome
++ firefox
+
 
 #### Hotkeys
 + Delete - [fn + del]
