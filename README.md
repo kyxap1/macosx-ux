@@ -32,7 +32,8 @@ Exporting share as MacOS network volume on MS Windows ( [link](http://en.wikiped
 + Delete - [fn + del]
 + Home - [cmd + left]
 + End - [cmd + right]
-+ Fullscreen - [cmd + enter]
++ Fullscreen - [ctrl + cmd + f]
 + Pgup - [cmd + up]
 + Pgdown - [cmd + down]
++ 
 
