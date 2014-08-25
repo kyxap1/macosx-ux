@@ -21,7 +21,7 @@ Exporting share as MacOS network volume on MS Windows ( [link](http://en.wikiped
 + menu meters - taskbar sysmon app
 + colorsnapper - color picker (eyedrop)
 + ghostlab - multibrowser testing
-+ 
++ parallels - virtualisation
 + osxfuse
 + vlc
 + chrome
